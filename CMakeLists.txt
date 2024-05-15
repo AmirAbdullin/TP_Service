@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5)
 project(GIBDD VERSION 0.1 LANGUAGES CXX)
 
 set(QT_DIR "C:\\Qt\\6.4.2\\msvc2019_64")
-#set(CMAKE_CXX_COMPILER "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe")
+
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
